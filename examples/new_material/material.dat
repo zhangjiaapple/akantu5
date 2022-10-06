@@ -1,0 +1,8 @@
+material local_damage [
+	 name = concrete
+	 rho = 3000   # density
+	 E   = 40e9   # young's modulus
+	 nu  = 0.2    # poisson's ratio
+     Yd = 500
+     Sd = 5000
+]
